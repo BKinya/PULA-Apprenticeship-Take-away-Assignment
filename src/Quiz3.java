@@ -10,6 +10,18 @@
 public class Quiz3 {
     static final double PIE = 3.142;
 
+    public static void main(String[] args){
+        System.out.println("\nArea of a closed cylinder of radius 0.17 and height 3.27 = "+areaOfCylinderClosed(0.17, 3.27)
+        +" squared units");
+
+        System.out.println("\nArea of a open cylinder of radius 0.17 and height 3.27 = "+areaOfCylinderOpen(0.17, 3.27)
+                +" squared units");
+
+        System.out.println("\nVolume  of a cylinder of radius 0.17 and height 3.27 = "+volumeOfCylinder(0.17, 3.27)
+                +" cubic units");
+
+    }
+
     /**
      * @param radius
      * @param height
