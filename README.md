@@ -5,7 +5,7 @@ PULA Apprenticeship Take away Assignment
 
 1. Clone the project.
 
-    git clone git@github.com:BKinya/PULA-Apprenticeship-Take-away-Assignment.git
+    git clone https://github.com/BKinya/PULA-Apprenticeship-Take-away-Assignment.git
     
 2. Import project into your favourite IDE
     I am assuming you will be running this code on Intellij Idea IDE.
