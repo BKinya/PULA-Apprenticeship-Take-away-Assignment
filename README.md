@@ -4,6 +4,7 @@ PULA Apprenticeship Take away Assignment
 ## Instruction to run the code
 
 1. Clone the project.
+
     git clone git@github.com:BKinya/PULA-Apprenticeship-Take-away-Assignment.git
     
 2. Open it in your favourite IDE
