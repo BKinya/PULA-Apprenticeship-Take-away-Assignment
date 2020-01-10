@@ -5,7 +5,9 @@
 public class Quiz2 {
 
     public static void main(String[] args){
+        System.out.println("checking if 192.168.10.10 is Valid IPv4 address");
         System.out.println(isValidIPv4("192.168.10.10"));
+        System.out.println("checking if 192.168.10. is Valid IPv4 address");
         System.out.println(isValidIPv4("192.168.10."));
 
     }
